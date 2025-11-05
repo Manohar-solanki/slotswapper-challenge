@@ -1,4 +1,4 @@
-# SlotSwapper – Full Stack Intern Challenge
+# SlotSwapper – Full Stack Intern
 
 A peer-to-peer time-slot swapping app built with Express, SQLite, React, and TypeScript.
 
@@ -14,4 +14,5 @@ A peer-to-peer time-slot swapping app built with Express, SQLite, React, and Typ
    ```bash
    cd backend
    npm install
+
    npm run dev
